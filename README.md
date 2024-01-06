@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @DOJO004
-- 🖥️ I’m Frountend Engineer
-- 💎 I’m use Rails,React,TypeScript
-- 🌿Follow my blog https://chendojo004.com/
-<!---
-DOJO004/DOJO004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+嗨!~ 我是 DOJO 一位前端工程師，目標是成為全端工程師。
+使用技能如下:
+- React
+- Next.JS
+- TypeScript
+- Rails
+
+2023 IThome 鐵人賽完賽 : https://ithelp.ithome.com.tw/users/20161807/articles?page=1
+致敬 CakeResume 的求職網站 : https://readmee.org/
+我的個人部落格 : https://chendojo004.com/
