@@ -7,6 +7,6 @@
 
 2023 IThome 鐵人賽完賽 : https://ithelp.ithome.com.tw/users/20161807/articles?page=1
 
-致敬 CakeResume 的求職網站 : https://readmee.org/ (目前已關站，請至 https://github.com/DOJO004/14th-READMee 觀看)
+致敬 CakeResume 的求職網站 : ~https://readmee.org/~ (目前已關站，請至 https://github.com/DOJO004/14th-READMee 觀看)
 
 我的個人部落格 : https://chendojo004.com/
