@@ -9,7 +9,7 @@
 
 目前任職於台中軟體園區。 請多指教!😀
 
-個人部落格 : https://chendojo004.com/
+個人部落格 : ~https://chendojo004.com/~ (已關站，正努力製作調酒社群網站，敬請期待!)
 
 2023 IThome 鐵人賽完賽 : https://ithelp.ithome.com.tw/users/20161807/articles?page=1
 
